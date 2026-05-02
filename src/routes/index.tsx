@@ -17,7 +17,7 @@ import { supabase } from "@/integrations/supabase/client";
 
 const DOWNLOAD_URL =
   "https://github.com/axolot12/traing/releases/download/v1.0/launcher.exe";
-const PREVIEW_URL = "https://test.ignismc.fun";
+const PREVIEW_URL = "https://preview.ignismc.fun";
 const DISCORD_URL = "https://discord.gg/xrsRcBmFub";
 
 const FEATURES = [
